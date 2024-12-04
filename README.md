@@ -2,9 +2,6 @@
 
 API untuk mengelola data **Pungutan**, yang meliputi operasi CRUD (Create, Read, Update, Delete). API ini memungkinkan pengguna untuk menambahkan, melihat, memperbarui, dan menghapus data **Pungutan** yang mencakup perhitungan nilai **FOB**, **CIF**, dan **CIF Rp**.
 
-## Struktur Proyek
-
-
 ## Fitur
 
 - **Create**: Menambahkan data Pungutan baru dengan perhitungan **FOB**, **CIF**, dan **CIF Rp**.
